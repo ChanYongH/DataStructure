@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Test.c">
+    <ClCompile Include="1_BinarySearch_CY.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1_BinarySearch_Yoon.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
