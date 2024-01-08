@@ -1,4 +1,4 @@
-﻿#include<stdio.h>
+#include<stdio.h>
 #include<stdlib.h>
 
 #define ARR_COUNT 9
@@ -45,7 +45,7 @@ int binarySearch(int* _Arr, int _FindNum)
 	int t_CurrIdx = -1;
 	int t_Result = -1;
 
-while (t_First < t_Last)
+while (t_First <= t_Last) // first와 last가 만났다는 것은 탐색의 대상이 아직 하나 남아있음을 뜻한다. 따라서 <=로 변경 진행 했다.
 	{
 		t_CurrIdx = (t_First + t_Last) / 2;
 		if (_Arr[t_CurrIdx] == _FindNum)
