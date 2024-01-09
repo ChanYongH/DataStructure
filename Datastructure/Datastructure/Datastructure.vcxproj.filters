@@ -24,5 +24,8 @@
     <ClCompile Include="1_BSWorstOpCount_Yoon.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="RecursiveFactorial.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
