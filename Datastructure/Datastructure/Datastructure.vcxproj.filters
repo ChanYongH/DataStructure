@@ -24,10 +24,16 @@
     <ClCompile Include="1_BSWorstOpCount_Yoon.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="RecursiveFactorial.c">
+    <ClCompile Include="2_BinarySearchRecur.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="FibonacciFunc.c">
+    <ClCompile Include="2_FibonacciFunc.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2_RecursiveFactorial.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="HanoiTowerSolu.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
